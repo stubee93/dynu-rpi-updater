@@ -23,3 +23,7 @@ docker run -d --name dynu-rpi-updater \
 | DYNU_USERNAME    |    `null`     | Username                   |
 | DYNU_PASWORD_MD5 |    `null`     | MD5 hashed password        |
 | POLLINTERVAL     |      300      | Update interval in seconds |
+
+### Sources
+
+- [Official Dynu tutorial for RPi](https://www.dynu.com/DynamicDNS/IPUpdateClient/RaspberryPi-Dynamic-DNS)
